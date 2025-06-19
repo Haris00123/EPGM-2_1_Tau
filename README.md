@@ -1,5 +1,6 @@
 # EPGM: Energy Price Grey Model (2,1, Tau)
 
+[![PyPI version](https://img.shields.io/pypi/v/epgm_model.svg)](https://pypi.org/project/epgm_model/)
 
 An open-source Python implementation of the EPGM(2,1,Tau) model from the paper:  
 *A novel dynamic time-delay grey model of energy prices and its application in crude oil price forecasting*  
@@ -32,6 +33,4 @@ This implementation allows fitting and forecasting with the EPGM(2,1,Tau) model,
 Clone the repo and install locally:
 
 ```bash
-git clone https://github.com/yourusername/epgm.git
-cd epgm
-pip install -e .
+pip install epgm_model
