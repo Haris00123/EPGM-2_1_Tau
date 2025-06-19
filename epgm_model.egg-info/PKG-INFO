@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: epgm-model
+Version: 0.1.0
+Summary: Implementation of the EPGM model for time series forecasting.
+Author: Haris Masood
+Author-email: haris_masood@yahoo.com
+License: MIT Open Source License
+Classifier: Development Status :: 1 - Production
+Classifier: Intended Audience :: Quantitative Finance/Algorithmic Trading
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Quanitative Finance/Algorithmic Trading
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scipy
