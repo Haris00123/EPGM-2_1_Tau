@@ -30,7 +30,5 @@ This implementation allows fitting and forecasting with the EPGM(2,1,Tau) model,
 
 ## Installation
 
-Clone the repo and install locally:
-
 ```bash
 pip install epgm_model
